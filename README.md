@@ -31,7 +31,7 @@ I'm currently pursuing my degree in Information Science and Engineering. I have 
 ### 📫 How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Email](rajmishra8319@gmail.com)
+- Email: rajmishra8319@gmail.com
 
 
 ---
