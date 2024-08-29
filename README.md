@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hello, I'm [Raj Mishra] 👋
 
-<!--
-**RajMishra16/RajMishra16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Information Science and Engineering Student**  
+💻 **Aspiring Software Engineer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I'm currently pursuing my degree in Information Science and Engineering. I have a strong passion for technology and programming. I am constantly learning and expanding my skill set to keep up with the latest trends in the tech world.
+
+### 🛠️ Skills
+
+- **Programming Languages:**
+  - Python 🐍
+  - C Programming 🛠️
+  - C++ (Basic) 📚
+  - Java (Currently Learning) ☕
+  
+- **Tools & Technologies:**
+  - Git & GitHub 🌟
+  - Basic understanding of Data Structures and Algorithms 📊
+  - Basic Web Development (HTML, CSS, JavaScript) 🌐
+
+### 🌱 Currently Learning
+
+- Deepening my knowledge in Java and Object-Oriented Programming.
+- Exploring Data Structures and Algorithms to enhance problem-solving skills.
+- Experimenting with new frameworks and libraries in Python.
+
+### 📫 How to Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Email](rajmishra8319@gmail.com)
+
+
+---
+
+### 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+### 💡 Quote
+
+_"The only way to do great work is to love what you do." - Steve Jobs_
