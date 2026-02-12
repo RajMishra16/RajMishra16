@@ -1,97 +1,53 @@
-<!-- ================= HEADER ================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Raj%20Mishra&fontSize=50&fontColor=00f5d4&animation=fadeIn&desc=Future%20Software%20Engineer%20%7C%20DSA%20Focused%20%7C%20Java%20Backend%20Learner&descAlignY=65&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=220&section=header&text=Raj%20Mishra&fontSize=40&fontColor=00f5d4&animation=fadeIn"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Information+Science+Student;Java+Backend+Developer+in+Progress;DSA+in+Java;Future+Software+Engineer;Consistency+Over+Motivation&center=true&width=600&height=50">
-</p>
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00f5d4&center=true&vCenter=true&width=700&lines=Java+Backend+Learner;Full+Stack+Explorer;DSA+in+Java;Future+Software+Engineer;Always+Learning"/>
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RajMishra16&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=RajMishra16&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 ---
 
-# 👋 Hello, I'm Raj Mishra
+## 🧠 About Me
 
-🎓 Information Science & Engineering Student  
+🎓 Information Science Engineering Student  
 💻 Aspiring Software Engineer  
+☕ Java Backend Learner  
 🧠 Focused on Data Structures & Algorithms  
-🚀 Targeting High-Paying Tech Roles  
+
+Building software with consistency, discipline, and logic.
 
 ---
 
-## 🚀 About Me
-
-- ☕ Currently mastering **Java & Object-Oriented Programming**
-- 📊 Strong focus on **DSA in Java**
-- 🌐 Learning Full Stack Development
-- 🗄️ Working with MySQL & JDBC
-- 🔥 Daily coding + disciplined learning system
-
----
-
-## 💼 Projects
-
-### 🏥 Hospital Database Management System  
-Java • MySQL • JDBC  
-- Designed relational schema  
-- Implemented full CRUD operations  
-- Integrated Java with MySQL using JDBC  
-
----
-
-### 📝 Java Servlet ToDo Application  
-Java • Servlets • JSP • MySQL  
-- Developed dynamic task management system  
-- Implemented backend using Servlets  
-- Used JSP for dynamic content rendering  
-
----
-
-### 📊 DSA Practice Repository  
-Java • Problem Solving  
-- Arrays, Strings, Recursion, Sorting  
-- Stack, Queue, LinkedList implementation  
-- Regular problem solving practice  
-
----
-
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,html,css,mysql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,html,css,js,mysql,git,github,vscode&theme=dark"/>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 🚀 Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajMishra16&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajMishra16&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajMishra16&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+🏥 Hospital Database Management System (Java • MySQL • JDBC)  
+📝 Java Servlet ToDo Application  
+📊 DSA Practice Repository  
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RajMishra16&theme=onedark&no-frame=true&row=1&column=7" />
+<img src="https://github-readme-stats.vercel.app/api?username=RajMishra16&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RajMishra16&theme=tokyonight" height="170"/>
 </p>
 
----
-
-## 📈 Contribution Activity Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajMishra16&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajMishra16&theme=tokyo-night"/>
 </p>
 
 ---
@@ -99,30 +55,18 @@ Java • Problem Solving
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RajMishra16/RajMishra16/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/RajMishra16/RajMishra16/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect
 
-<p align="center">
-  <a href="mailto:rajmishra8319@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rajmishra16/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+📧 rajmishra8319@gmail.com  
+💼 https://linkedin.com/in/rajmishra16  
 
 ---
 
-# ⚡ Mindset
-
-> Code daily.  
-> Improve 1% every day.  
-> **Discipline > Motivation. Consistency builds greatness.**
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+🔥 Keep Coding. Keep Improving. Stay Consistent.
 </p>
