@@ -58,30 +58,27 @@ profile:
 ## 🧭 ENGINEERING JOURNEY — TIMELINE
 
 ```
- 2022 ●───────────────────────────────────────────────────
-      │  Joined Atria Institute of Technology (VTU)
-      │  Information Science & Engineering
-      │
  2023 ●───────────────────────────────────────────────────
+      │  Joined Atria Institute of Technology (VTU)
+      │  B.E. in Information Science & Engineering
+      │
+2024 ●───────────────────────────────────────────────────
       │  Deep-dived into Python, Deep Learning & Computer Vision
       │  Started competitive project building (Hackathons / Expos)
       │
- 2024 ●───────────────────────────────────────────────────
+2025 ●───────────────────────────────────────────────────
       │  🏆 1st Place — Theory of Computation Project Expo
-      │  🏆 1st Place — Machine Learning Project Expo
-      │  Selected — IDE Bootcamp (1000+ teams)
-      │
- 2025 ●───────────────────────────────────────────────────
       │  💼 Project Trainee @ Hitachi R&D Bengaluru
       │  Built: Bird Species Identification System (CNN + YOLO)
-      │  🏆 1st Place — Generative AI Project Expo
       │
- 2026 ●───────────────────────────────────────────────────
+2026 ●───────────────────────────────────────────────────
+      │  🏆 1st Place — Machine Learning Project Expo
+      │  🏆 1st Place — Generative AI Project Expo
+      │  Selected — IDE Bootcamp (1000+ Teams)
       │  Pivoted focus → Backend Engineering
       │  Java • Spring Boot • DSA • System Design
-      │  Final Year — preparing for Backend SDE roles
+      │  Final Year — Preparing for Backend SDE Roles
       ▼
-```
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:24243e&height=4&width=100%)
 
