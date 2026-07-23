@@ -79,7 +79,7 @@ profile:
       │  Java • Spring Boot • DSA • System Design
       │  Final Year — Preparing for Backend SDE Roles
       ▼
-
+```
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:24243e&height=4&width=100%)
 
 ## 💼 EXPERIENCE
